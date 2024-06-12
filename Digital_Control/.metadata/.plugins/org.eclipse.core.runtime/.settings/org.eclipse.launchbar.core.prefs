@@ -1,0 +1,7 @@
+LaunchTargetManager/org.eclipse.launchbar.core.launchTargetType.local,Local/arch=x86_64
+LaunchTargetManager/org.eclipse.launchbar.core.launchTargetType.local,Local/name=Local
+LaunchTargetManager/org.eclipse.launchbar.core.launchTargetType.local,Local/os=win32
+configDescList=org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:LedDeneme Debug,org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:PIDControl Debug,org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:PID_Kontrol_with_integer_Array Debug,org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:STM_kod Debug,org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:STM_kod,org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:deneme Debug,org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:led Debug,org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:pwm_control_with_dataarray Debug,org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:son Debug,org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:uart_deneme Debug
+eclipse.preferences.version=1
+org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:LedDeneme\ Debug/activeLaunchMode=run
+org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:LedDeneme\ Debug/activeLaunchTarget=null\:---

@@ -1,0 +1,7 @@
+../Core/Src/INA238.c:2:19:INA238_Init	2
+../Core/Src/INA238.c:25:19:INA238_Reset	2
+../Core/Src/INA238.c:37:19:INA238_Config	3
+../Core/Src/INA238.c:62:19:INA238_ReadShuntVoltage	2
+../Core/Src/INA238.c:79:19:INA238_ReadCurrent	2
+../Core/Src/INA238.c:98:19:INA238_ReadPower	2
+../Core/Src/INA238.c:115:19:INA238_ReadBusVoltage	2
